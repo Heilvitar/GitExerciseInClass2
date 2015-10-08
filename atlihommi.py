@@ -5,3 +5,7 @@ def cocksmoker():
 	
 
 cocksmoker()
+hardcoregrind = 'gay'
+napalmdeath = 'gay'
+if  hardcoregrind == napalmdeath:
+	print 'damn son'
