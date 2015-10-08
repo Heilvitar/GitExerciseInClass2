@@ -1,5 +1,5 @@
 def cocksmoker():
         #skrifa eithvað
-	print 'see you in hell cocksmoker'
+	print 'steinar is the biggest cocksmoker in all of Scandinavia'
 
 cocksmoker()
