@@ -1,11 +1,11 @@
 def cocksmoker():
         #
-	print 'Steinar thrashes just one more gay ass today to be satisfied'
+	print 'jeff has one more blast'
 	
 	
 
 cocksmoker()
-assbandit = 'steinar'
-gay = 'steinar'
+assbandit = 'atli'
+gay = 'atli'
 if  assbandit == gay:
 	print 'obviously'
