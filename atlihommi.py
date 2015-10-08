@@ -1,6 +1,6 @@
 def cocksmoker():
-        #skrifa eitthvad
-	print 'steinar is the biggest cocksmoker of he 21st century'
+        #jeff
+	print 'atli has one more blast'
 	
 	
 
