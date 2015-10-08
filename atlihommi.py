@@ -1,5 +1,7 @@
 def cocksmoker():
-	#atli says:
-	print 'see you in hell cocksmoker'
+        #skrifa eitthvad
+	print 'steinar is the biggest cocksmoker of he 21st century'
+	
+	
 
 cocksmoker()
